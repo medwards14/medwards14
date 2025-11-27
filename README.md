@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Mason, a current graduate student at the University of Florida. I am actively involved in Quantum computing research, specifically quantum algorithms and communication. 
+I'm Mason, a current graduate student at the University of Florida. I am actively involved in Quantum computing research, specifically quantum algorithms and quantum networks. 
 
 <!--
 **medwards14/medwards14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
