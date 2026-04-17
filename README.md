@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Mason, a current graduate student at the University of Florida. I am actively involved in Quantum information research, specifically quantum characterization. 
+I'm Mason Edwards, a current graduate student at the University of Florida. I am actively involved in Quantum information research, specifically quantum characterization. 
 
 <!--
 **medwards14/medwards14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
